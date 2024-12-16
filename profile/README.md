@@ -1,7 +1,7 @@
-## <p align="center">HouseSpot</p>
+## <p align="center">NutriGuard</p>
 
 <p align="center">
-  <img src="../assets/logo.png" width="200" height="200" alt="HouseSpot Logo">
+  <img src="../assets/logo.png" width="200" height="200" alt="NutriGuard Logo">
 </p>
 
 #### <p align="center">Your Home Needs with One Touch!</p>
